@@ -2,4 +2,5 @@
 
 - 📍 Originally from Porto, Portugal; currently in Berlin
 - 🎓 BSc + MSc in Informatics and Computer Engineering @ FEUP (2016-2021)
-- 📕 Interested in building things, regardless of the domain
+- 📕 Product-focused with a strong sense of ownership and eye for detal
+- 💼 Currently working at [Spendesk](https://github.com/Spendesk/)
